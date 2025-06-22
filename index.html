@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Weather Now</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <main class="card">
+    <h1 class="title">Weather Now</h1>
+
+    <!-- SEARCH BAR -->
+    <form id="search-form" autocomplete="off">
+      <input
+        id="city-input"
+        name="city"
+        type="text"
+        placeholder="Search city…"
+        spellcheck="false" />
+      <button type="submit">🔍</button>
+    </form>
+
+    <!-- OR -->
+    <button id="loc-btn" class="loc-btn">Use My Location</button>
+
+    <!-- RESULT -->
+    <section id="weather" class="hidden">
+      <h2 id="city-name"></h2>
+      <p id="description" class="desc"></p>
+      <div class="temp-row">
+        <span id="temp" class="temp"></span>
+        <img id="icon" alt="" />
+      </div>
+      <div class="extra">
+        <p>Humidity: <span id="humidity"></span></p>
+        <p>Wind: <span id="wind"></span></p>
+      </div>
+    </section>
+
+    <p id="error" class="error hidden"></p>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
