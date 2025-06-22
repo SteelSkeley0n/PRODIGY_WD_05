@@ -62,6 +62,9 @@ Open index.html in your browser and enjoy!
 🙌 Acknowledgment
 Built as Task 4 – Weather App Project during the internship at Prodigy Infotech.
 
+
+Link to visit sample page : https://steelskeley0n.github.io/PRODIGY_WD_05/
+
 Sample Screen Shots : 
 ![Screenshot 2025-06-22 163220](https://github.com/user-attachments/assets/7f05483e-b035-4271-9249-c832a763a0a2)
 ![Screenshot 2025-06-22 163209](https://github.com/user-attachments/assets/55466462-26e4-47b8-9658-a410e0ff85e3)
