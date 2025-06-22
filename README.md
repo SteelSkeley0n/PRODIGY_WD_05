@@ -62,3 +62,10 @@ Open index.html in your browser and enjoy!
 🙌 Acknowledgment
 Built as Task 4 – Weather App Project during the internship at Prodigy Infotech.
 
+Sample Screen Shots : 
+![Screenshot 2025-06-22 163220](https://github.com/user-attachments/assets/7f05483e-b035-4271-9249-c832a763a0a2)
+![Screenshot 2025-06-22 163209](https://github.com/user-attachments/assets/55466462-26e4-47b8-9658-a410e0ff85e3)
+![Screenshot 2025-06-22 163147](https://github.com/user-attachments/assets/6998c44e-ccea-4ee2-ab66-fb4a840759ab)
+![Screenshot 2025-06-22 163244](https://github.com/user-attachments/assets/8b5b65f1-1293-4ce1-b36e-cd137cefab9c)
+
+
